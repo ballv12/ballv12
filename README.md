@@ -15,6 +15,7 @@
 
 ![ballv12's GitHub stats](https://github-readme-stats.vercel.app/api?username=ballv12&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ballv12&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ballv12&langs_count=8)
   </a>
 </div>
 
