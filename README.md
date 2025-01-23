@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
+https://i.pinimg.com/originals/6d/ae/23/6dae238916513b5a483752e380568110.gif
 
 <!--
 **ballv12/ballv12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
