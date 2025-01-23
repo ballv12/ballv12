@@ -2,6 +2,17 @@
 
 <img src="https://i.pinimg.com/originals/6d/ae/23/6dae238916513b5a483752e380568110.gif" alt="Pixel Art" align="right" width="200">
 
+### Technologies and tools:
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Cris-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Cris-Luau" height="35" width="40" src="https://avatars.githubusercontent.com/u/104525888?s=200&v=4">
+  <img align="center" alt="Cris-VS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Cris-VS" height="35" width="40" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg" />
+</div><br>
+
+### GitHub Stats
+
 <!--
 **ballv12/ballv12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
