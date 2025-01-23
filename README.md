@@ -14,6 +14,7 @@
 ### GitHub Stats
 
 [![ballv12's GitHub stats](https://github-readme-stats.vercel.app/api?username=ballv12)](https://github.com/ballv12/github-readme-stats)
+![ballv12's GitHub stats](https://github-readme-stats.vercel.app/api?username=ballv12&show_icons=true&theme=github_dark)
 
 <!--
 **ballv12/ballv12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
