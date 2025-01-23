@@ -8,10 +8,12 @@
   <img align="center" alt="Cris-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Cris-Luau" height="35" width="40" src="https://avatars.githubusercontent.com/u/104525888?s=200&v=4">
   <img align="center" alt="Cris-VS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Cris-VS" height="35" width="40" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg" />
+  <img align="center" alt="Cris-Nodemon" height="35" width="40" src="https://user-images.githubusercontent.com/13700/35731649-652807e8-080e-11e8-88fd-1b2f6d553b2d.png">
 </div><br>
 
 ### GitHub Stats
+
+![Ballv's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <!--
 **ballv12/ballv12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
